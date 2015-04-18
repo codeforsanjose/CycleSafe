@@ -10,10 +10,10 @@ The main repo for this project is located here: https://github.com/CycleSafe/Cyc
 **Installing into a virtual evironment is highly recommended!**
 
 1. install python 2.7
-2. install pip and python-dev (to get django)
+2. install pip and (if using Linux) python-dev
 3. > python get-pip.py
 
-   > pip install python-dev
+   > Linux users: pip install python-dev
  
 4. Install requirements.
  For local mode only: 
