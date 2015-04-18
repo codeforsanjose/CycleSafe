@@ -4,6 +4,8 @@
 CycleSafe allows cyclists and pedestrians to view and report road hazards.
 This project is part of <a href="http://codeforsanjose.com/">Code for San Jose</a>, a <a href="https://www.codeforamerica.org/">Code for America</a> brigade.
 
+The main repo for this project is located here: https://github.com/CycleSafe/CycleSafe_deploy
+
 ### Instructions to run CycleSafe locally
 **Installing into a virtual evironment is highly recommended!**
 
